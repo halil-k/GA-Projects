@@ -6,10 +6,10 @@ to those renders here in this html.
 Please use these links to view the notebook incase the rendering on the notebooks fail.
 
 PostgresSQL
-http://htmlpreview.github.com/?https://github.com/halil-k/GA-Projects/blob/master/SQL/if-notebook-fails/practice-postgres-sql.ipynb
+http://htmlpreview.github.com/?https://github.com/halil-k/GA-Projects/blob/master/SQL/if-notebook-fails/practice-postgres-sql.html
 
 SQL in pandas
-http://htmlpreview.github.com/?https://github.com/halil-k/GA-Projects/blob/master/SQL/if-notebook-fails/sql-commands-together.ipynb
+http://htmlpreview.github.com/?https://github.com/halil-k/GA-Projects/blob/master/SQL/if-notebook-fails/sql-commands-together.html
 
 SQL in pandas pt.2
-http://htmlpreview.github.com/?https://github.com/halil-k/GA-Projects/blob/master/SQL/if-notebook-fails/sql-with-pandas-pt2.ipynb
+http://htmlpreview.github.com/?https://github.com/halil-k/GA-Projects/blob/master/SQL/if-notebook-fails/sql-with-pandas-pt2.html
